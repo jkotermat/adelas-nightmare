@@ -1,0 +1,24 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/1//AAAA8P9VVd//DwAfVf/13Y8P8FX13a/6iojwVf8//aVa+PBV3939WooI8FXf3f1aigjwUf8//aVaiPAV9d2v+oqIAF9R//XdPw8A8P9VVd+PDwAAAP9V/wAAAAAAAPAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Adela"
+    },
+    "song1": {
+        "data": "0078000408020100001c00010a006400f401640000040000000000000000000000000005000004060018001c000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "song2": {
+        "data": "0078000408020206001c00010a006400f4016400000400000000000000000000000000000000020c0004000800012410001400012507001c00020a006400f4016400000400000000000000000000000000000000030c0000000400012a08000c000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong0",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
